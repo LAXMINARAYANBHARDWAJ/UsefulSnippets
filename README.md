@@ -12,6 +12,6 @@ Some are practical utilities, some are quirky experiments — all are shared ope
 Clone the repository and run any script directly:
 
 ```bash
-git clone https://github.com/LAXMINARAYANBHARDWAJ/MiscPythonPrograms.git
-cd MiscPythonPrograms
-python3 script_name.py
+# Clone the repository
+git clone https://github.com/LAXMINARAYANBHARDWAJ/Useful_Snippets.git
+cd Useful_Snippets
