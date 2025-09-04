@@ -1,8 +1,7 @@
-# Useful Python Snippets
+# Useful_Snippets
 
-A collection of small, miscellaneous Python programs and scripts.  
+A collection of small, miscellaneous multi-language programs and scripts.  
 Some are practical utilities, some are quirky experiments — all are shared openly under the MIT License for anyone who finds them useful.  
-(There might be some C++ programs too :)
 
 ## Features
 - Lightweight, no unnecessary dependencies
