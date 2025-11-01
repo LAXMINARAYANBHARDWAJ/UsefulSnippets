@@ -7,7 +7,7 @@
 
 using high_prec = boost::multiprecision::number<boost::multiprecision::cpp_dec_float<200>>;
 
-static const high_prec C("299792458");
+static const high_prec C("299792458.0");
 static const high_prec G("6.67430e-11");
 static const high_prec SOLAR_MASS("1.988475e30");
 static const high_prec LIGHT_YEAR("9.4607304725808e15");
